@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="demo_application" label="Demo Application" language="en" table="x_1468944_demo_r_0_demo_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>demo_application</element>
+            <help/>
+            <hint/>
+            <label>Demo Application</label>
+            <language>en</language>
+            <name>x_1468944_demo_r_0_demo_request</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-17 02:57:21</sys_created_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Demo Application</sys_name>
+            <sys_package display_value="Demo Request" source="x_1468944_demo_r_0">612e63bb83d3c610e528ffefeeaad3ca</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo Request">612e63bb83d3c610e528ffefeeaad3ca</sys_scope>
+            <sys_update_name>sys_documentation_x_1468944_demo_r_0_demo_request_demo_application_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-17 03:07:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

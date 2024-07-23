@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="641f63378317c610e528ffefeeaad37f" extends="task" label="Demo Request" max_length="40" name="x_1468944_demo_r_0_demo_request" type="collection">
+        <element label="Demo Description" max_length="400" name="demo_description" type="string"/>
+        <element label="Demo Date" max_length="40" name="demo_date" type="calendar_date_time"/>
+        <element label="Demo Objective" max_length="100" name="demo_objective" type="string"/>
+        <element choice="1" display="true" label="Demo Application" max_length="40" name="demo_application" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Todo App" sequence="0" value="todo_app"/>
+                <element inactive_on_update="false" label="Collection Tracker" sequence="2" value="collection_tracker"/>
+                <element inactive_on_update="false" label="Suggestion Box" sequence="1" value="suggestion_box"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Request a Demo Session">a947c04083abc610e528ffefeeaad3a3</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 07:41:30</sys_created_on>
+        <sys_id>a7f0bc8c83e70a10e528ffefeeaad362</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request a Demo Session.Any User</sys_name>
+        <sys_package display_value="Demo Request" source="x_1468944_demo_r_0">612e63bb83d3c610e528ffefeeaad3ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Request">612e63bb83d3c610e528ffefeeaad3ca</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_a7f0bc8c83e70a10e528ffefeeaad362</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 07:41:30</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>

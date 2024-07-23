@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Request a Demo Session">a947c04083abc610e528ffefeeaad3a3</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 04:48:17</sys_created_on>
+        <sys_id>de590c8883abc610e528ffefeeaad3d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request a Demo Session</sys_name>
+        <sys_package display_value="Demo Request" source="x_1468944_demo_r_0">612e63bb83d3c610e528ffefeeaad3ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Request">612e63bb83d3c610e528ffefeeaad3ca</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_de590c8883abc610e528ffefeeaad3d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 04:48:17</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo Request">612e63bb83d3c610e528ffefeeaad3ca</application>
+        <file_path/>
+        <instance_id>aa42ddd5ebc30690cbdefceacad0cd11</instance_id>
+        <instance_name>dev278450</instance_name>
+        <name>sc_cat_item_catalog_de590c8883abc610e528ffefeeaad3d6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request a Demo Session">a947c04083abc610e528ffefeeaad3a3</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-17 04:48:17</sys_created_on><sys_id>de590c8883abc610e528ffefeeaad3d6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Request a Demo Session</sys_name><sys_package display_value="Demo Request" source="x_1468944_demo_r_0">612e63bb83d3c610e528ffefeeaad3ca</sys_package><sys_policy/><sys_scope display_value="Demo Request">612e63bb83d3c610e528ffefeeaad3ca</sys_scope><sys_update_name>sc_cat_item_catalog_de590c8883abc610e528ffefeeaad3d6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-17 04:48:17</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1024873834</payload_hash>
+        <record_name>Service Catalog.Request a Demo Session</record_name>
+        <reverted_from/>
+        <source>252e63bb83d3c610e528ffefeeaad3d0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 04:48:17</sys_created_on>
+        <sys_id>5e590c8883abc610e528ffefeeaad3da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190bf050c0d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 04:48:17</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>9e590c888cabc610ff50fb9c348235d9</update_guid>
+        <update_guid_history>9e590c888cabc610ff50fb9c348235d9:1024873834</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Request a Demo Session">13d9800083ebc610e528ffefeeaad3c4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 04:50:32</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>1ccb1a8cda364870ba1bf72a5fe11b24</sys_id>
+        <sys_metadata>de590c8883abc610e528ffefeeaad3d6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request a Demo Session</sys_name>
+        <sys_package display_value="Demo Request" source="x_1468944_demo_r_0">612e63bb83d3c610e528ffefeeaad3ca</sys_package>
+        <sys_parent display_value="Request a Demo Session">a947c04083abc610e528ffefeeaad3a3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Demo Request">612e63bb83d3c610e528ffefeeaad3ca</sys_scope>
+        <sys_scope_delete display_value="">38eb082bfb2745a684080627eff37164</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_de590c8883abc610e528ffefeeaad3d6</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_de590c8883abc610e528ffefeeaad3d6">5e590c8883abc610e528ffefeeaad3da</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 04:50:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

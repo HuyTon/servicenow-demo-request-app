@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="demo_objective" label="Demo Objective" language="en" table="x_1468944_demo_r_0_demo_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>demo_objective</element>
+            <help/>
+            <hint/>
+            <label>Demo Objective</label>
+            <language>en</language>
+            <name>x_1468944_demo_r_0_demo_request</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-17 03:01:13</sys_created_on>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_name>Demo Objective</sys_name>
+            <sys_package display_value="Demo Request" source="x_1468944_demo_r_0">612e63bb83d3c610e528ffefeeaad3ca</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo Request">612e63bb83d3c610e528ffefeeaad3ca</sys_scope>
+            <sys_update_name>sys_documentation_x_1468944_demo_r_0_demo_request_demo_objective_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-17 03:28:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

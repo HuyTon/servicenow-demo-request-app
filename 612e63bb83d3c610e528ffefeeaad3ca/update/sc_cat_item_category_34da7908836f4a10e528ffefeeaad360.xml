@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Request a Demo Session">a947c04083abc610e528ffefeeaad3a3</sc_cat_item>
+        <sc_category display_value="Office">109cdff8c6112276003b17991a09ad65</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 13:04:04</sys_created_on>
+        <sys_id>34da7908836f4a10e528ffefeeaad360</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office.Request a Demo Session</sys_name>
+        <sys_package display_value="Demo Request" source="x_1468944_demo_r_0">612e63bb83d3c610e528ffefeeaad3ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Request">612e63bb83d3c610e528ffefeeaad3ca</sys_scope>
+        <sys_update_name>sc_cat_item_category_34da7908836f4a10e528ffefeeaad360</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 13:04:04</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

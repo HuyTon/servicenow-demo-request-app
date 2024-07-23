@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Request a Demo Session">a947c04083abc610e528ffefeeaad3a3</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 07:41:16</sys_created_on>
+        <sys_id>08f07c8c83e70a10e528ffefeeaad332</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request a Demo Session.Any User</sys_name>
+        <sys_package display_value="Demo Request" source="x_1468944_demo_r_0">612e63bb83d3c610e528ffefeeaad3ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Request">612e63bb83d3c610e528ffefeeaad3ca</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_08f07c8c83e70a10e528ffefeeaad332</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 07:41:16</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo Request">612e63bb83d3c610e528ffefeeaad3ca</application>
+        <file_path/>
+        <instance_id>aa42ddd5ebc30690cbdefceacad0cd11</instance_id>
+        <instance_name>dev278450</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_08f07c8c83e70a10e528ffefeeaad332</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request a Demo Session">a947c04083abc610e528ffefeeaad3a3</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-17 07:41:16</sys_created_on><sys_id>08f07c8c83e70a10e528ffefeeaad332</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Request a Demo Session.Any User</sys_name><sys_package display_value="Demo Request" source="x_1468944_demo_r_0">612e63bb83d3c610e528ffefeeaad3ca</sys_package><sys_policy/><sys_scope display_value="Demo Request">612e63bb83d3c610e528ffefeeaad3ca</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_08f07c8c83e70a10e528ffefeeaad332</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-17 07:41:16</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>1915269113</payload_hash>
+        <record_name>Request a Demo Session.Any User</record_name>
+        <reverted_from/>
+        <source>252e63bb83d3c610e528ffefeeaad3d0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 07:41:16</sys_created_on>
+        <sys_id>98f07c8c83e70a10e528ffefeeaad345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190bfa36c8c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 07:41:16</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>58f07c8cd5e70a1005691232b6ccd744</update_guid>
+        <update_guid_history>58f07c8cd5e70a1005691232b6ccd744:1915269113</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request a Demo Session.Any User">eff0bc8c83e70a10e528ffefeeaad34b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-17 07:41:30</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>2c1ba54e961b49cba2dfb23e7071b269</sys_id>
+        <sys_metadata>08f07c8c83e70a10e528ffefeeaad332</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request a Demo Session.Any User</sys_name>
+        <sys_package display_value="Demo Request" source="x_1468944_demo_r_0">612e63bb83d3c610e528ffefeeaad3ca</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo Request">612e63bb83d3c610e528ffefeeaad3ca</sys_scope>
+        <sys_scope_delete display_value="">38eb082bfb2745a684080627eff37164</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_08f07c8c83e70a10e528ffefeeaad332</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_08f07c8c83e70a10e528ffefeeaad332">98f07c8c83e70a10e528ffefeeaad345</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 07:41:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
